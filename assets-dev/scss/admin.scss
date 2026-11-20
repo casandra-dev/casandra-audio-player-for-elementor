@@ -1,0 +1,104 @@
+$casandraColor: #27AAE1;
+$proColor: #ff0683;
+
+#apfe_upload_file_btn {
+  margin-top: 2px;
+  padding: 3px;
+  font-weight: 600;
+  color: #2e4646;
+}
+
+#toplevel_page_casandra-audio-player-for-elementor .wp-menu-image:before {
+  color: rgb(106, 219, 220) !important;
+}
+
+.toplevel_page_casandra-audio-player-for-elementor img {
+  width: 30px;
+}
+
+#menu-posts-apfe_track .wp-menu-image:before {
+  color: #dbecec !important;
+}
+
+.wp-menu-open#toplevel_page_casandra-audio-player-for-elementor .wp-menu-image:before {
+  color: rgb(198, 242, 243) !important;
+}
+
+.wp-menu-open#menu-posts-apfe_track .wp-menu-image:before {
+  color: #f2fafa !important;
+}
+
+#toplevel_page_casandra-audio-player-for-elementor ul li:nth-last-child(1) a {
+  color: #f1a6cc !important;
+  font-weight: bold !important;
+  border-radius: 5px 0 0 5px;
+  background: linear-gradient(90deg, #ffffff00,  #ffffff00 50%, #df568f)
+}
+#toplevel_page_casandra-audio-player-for-elementor ul li:nth-last-child(1) a:hover {
+  background: linear-gradient(90deg, #ffffff00,  #ffffff00 50%, #ed85b0)
+}
+
+#toplevel_page_casandra-audio-player-for-elementor ul li:nth-last-child(1) a:before {
+
+}
+
+.wp-admin-casandra-audio-player-for-elementor {
+  background: white;
+  padding: 20px 30px;
+  margin: 10px 15px 10px 3px;
+  border-radius: 20px;
+  box-shadow: 0 0px 3px #73817f66;
+}
+
+.casandra-label {
+  background-color: #27AAE1;
+  color: white;
+  padding: 3px 9px 6px 9px;
+  border-radius: 10px;
+}
+
+.pro-label {
+  background-color: $proColor;
+  color: white;
+  padding: 1px 7px 4px 7px;
+  border-radius: 10px;
+}
+
+div:not(.elementor-navigator__item) .apfe-elementor-icon:after {
+  content: "by Casandra";
+  font-size: 9px;
+  position: absolute;
+  background-color: $casandraColor;
+  padding: 2px 6px;
+  color: #fff;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-family: Roboto, Arial;
+  top: 0;
+  left: 0;
+  border-radius: 0px 0 4px 0;
+}
+
+.apfe-pro,
+div[class*="__apfe_pro"] {
+  opacity: 0.5;
+  pointer-events: none;
+  user-select: none;
+}
+
+.apfe-pro label.elementor-control-title:not(.elementor-switch):after,
+div[class*="__apfe_pro"] label.elementor-control-title:not(.elementor-switch):after,
+{
+  background: $casandraColor;
+  border-radius: 3px;
+  font-family: Roboto, Arial;
+  color: #fff;
+  content: "PRO";
+  font-size: 10px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  padding: 2px 6px;
+  position: relative;
+  left: 2px;
+  top: -1px;
+}

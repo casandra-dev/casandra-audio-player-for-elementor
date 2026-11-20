@@ -1,0 +1,8 @@
+* text eol=lf
+*.mo binary
+*.png binary
+*.jpg binary
+*.dat binary
+
+/.gitattributes export-ignore
+/.gitignore export-ignore

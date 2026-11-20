@@ -1,0 +1,44 @@
+{
+    "name": "casandra.dev/casandra-audio-player-for-elementor",
+    "description": "A WordPress plugin to create audio player, music player, podcast player, and radio with an all-in-one Elementor widget",
+    "type": "wordpress-plugin",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*",
+        "phpstan/phpstan": "^2.1",
+        "szepeviktor/phpstan-wordpress": "^2.0",
+        "wp-coding-standards/wpcs": "^3.1",
+        "brain/monkey": "^2",
+        "phpunit/phpunit": "^9.5",
+        "wp-cli/i18n-command": "^2.6"
+    },
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Casandra\\AudioPlayerForElementor\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Casandra\\AudioPlayerForElementor\\Tests\\Unit\\": "tests/phpunit/Unit/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cacandra Development",
+            "email": "casandra.development@gmail.com",
+            "homepage": "https://casandra.dev/"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    },
+    "scripts": {
+        "cs": "@php ./vendor/bin/phpcs",
+        "cs:fix": "@php ./vendor/bin/phpcsbf",
+        "stan": "@php ./vendor/phpstan/phpstan",
+        "pot": "./vendor/bin/wp i18n make-pot . languages/casandra-audio-player-for-elementor.pot",
+        "test": "@php ./vendor/phpunit/phpunit/phpunit"
+    }
+}

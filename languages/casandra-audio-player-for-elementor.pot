@@ -1,0 +1,1146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-15 14:02+0330\n"
+"PO-Revision-Date: 2026-03-15 14:02+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: audio-player-for-elementor.php:59
+#, php-format
+msgid ""
+"Casandra Audio Player for Elementor requires PHP version %1$1s at least. Your "
+"server's PHP version is %2$2s."
+msgstr ""
+
+#: audio-player-for-elementor.php:70
+msgid "Casandra Audio Player for Elementor requires Elementor plugin to be activated."
+msgstr ""
+
+#: audio-player-for-elementor.php:79
+msgid ""
+"Casandra Audio Player for Elementor - Pro is activated. Disable the free version and "
+"enjoy the pro plugin."
+msgstr ""
+
+#: audio-player-for-elementor.php:92
+msgid ""
+"Casandra Audio Player for Elementor requires PHP Composer installed packages located "
+"in vendor folder"
+msgstr ""
+
+#: src/Plugin.php:101
+msgctxt "Post Type General Name"
+msgid "Tracks"
+msgstr ""
+
+#: src/Plugin.php:102
+msgctxt "Post Type Singular Name"
+msgid "Track"
+msgstr ""
+
+#: src/Plugin.php:103 src/Widget/Elementor/ApfeWidget.php:55
+msgid "Tracks"
+msgstr ""
+
+#: src/Plugin.php:104 src/Plugin.php:131
+msgid "Track"
+msgstr ""
+
+#: src/Plugin.php:105
+msgid "Track Archives"
+msgstr ""
+
+#: src/Plugin.php:106
+msgid "Track Attributes"
+msgstr ""
+
+#: src/Plugin.php:107
+msgid "Parent Track:"
+msgstr ""
+
+#: src/Plugin.php:108
+msgid "All Tracks"
+msgstr ""
+
+#: src/Plugin.php:109
+msgid "Add New Track"
+msgstr ""
+
+#: src/Plugin.php:110
+msgid "Add New"
+msgstr ""
+
+#: src/Plugin.php:111
+msgid "New Track"
+msgstr ""
+
+#: src/Plugin.php:112
+msgid "Edit Track"
+msgstr ""
+
+#: src/Plugin.php:113
+msgid "Update Track"
+msgstr ""
+
+#: src/Plugin.php:114
+msgid "View Track"
+msgstr ""
+
+#: src/Plugin.php:115
+msgid "View Tracks"
+msgstr ""
+
+#: src/Plugin.php:116
+msgid "Search Track"
+msgstr ""
+
+#: src/Plugin.php:117
+msgid "Not found"
+msgstr ""
+
+#: src/Plugin.php:118
+msgid "Not found in Trash"
+msgstr ""
+
+#: src/Plugin.php:119
+msgid "Featured Image"
+msgstr ""
+
+#: src/Plugin.php:120
+msgid "Set featured image"
+msgstr ""
+
+#: src/Plugin.php:121
+msgid "Remove featured image"
+msgstr ""
+
+#: src/Plugin.php:122
+msgid "Use as featured image"
+msgstr ""
+
+#: src/Plugin.php:123
+msgid "Insert into track"
+msgstr ""
+
+#: src/Plugin.php:124
+msgid "Uploaded to this track"
+msgstr ""
+
+#: src/Plugin.php:125
+msgid "Tracks list"
+msgstr ""
+
+#: src/Plugin.php:126
+msgid "Tracks list navigation"
+msgstr ""
+
+#: src/Plugin.php:127
+msgid "Filter tracks list"
+msgstr ""
+
+#: src/Plugin.php:132
+msgid "Music Tracks"
+msgstr ""
+
+#: src/Plugin.php:140
+msgctxt "taxonomy general name"
+msgid "Track Categories"
+msgstr ""
+
+#: src/Plugin.php:141
+msgctxt "taxonomy singular name"
+msgid "Track Category"
+msgstr ""
+
+#: src/Plugin.php:142
+msgid "Search Track Categories"
+msgstr ""
+
+#: src/Plugin.php:143
+msgid "All Track Categories"
+msgstr ""
+
+#: src/Plugin.php:144
+msgid "Parent Track Category"
+msgstr ""
+
+#: src/Plugin.php:145
+msgid "Parent Track Category:"
+msgstr ""
+
+#: src/Plugin.php:146
+msgid "Edit Track Category"
+msgstr ""
+
+#: src/Plugin.php:147
+msgid "Update Track Category"
+msgstr ""
+
+#: src/Plugin.php:148
+msgid "Add New Track Category"
+msgstr ""
+
+#: src/Plugin.php:149
+msgid "New Track Category Name"
+msgstr ""
+
+#: src/Plugin.php:150
+msgid "Track Categories"
+msgstr ""
+
+#: src/Plugin.php:155
+msgid "Music Track Categories"
+msgstr ""
+
+#: src/Plugin.php:160
+msgctxt "taxonomy general name"
+msgid "Track Tags"
+msgstr ""
+
+#: src/Plugin.php:161
+msgctxt "taxonomy singular name"
+msgid "Track Tag"
+msgstr ""
+
+#: src/Plugin.php:162
+msgid "Search Track Tags"
+msgstr ""
+
+#: src/Plugin.php:163
+msgid "Popular Track Tags"
+msgstr ""
+
+#: src/Plugin.php:164
+msgid "All Track Tags"
+msgstr ""
+
+#: src/Plugin.php:165
+msgid "Edit Track Tag"
+msgstr ""
+
+#: src/Plugin.php:166
+msgid "Update Track Tag"
+msgstr ""
+
+#: src/Plugin.php:167
+msgid "Add New Track Tag"
+msgstr ""
+
+#: src/Plugin.php:168
+msgid "New Track Tag Name"
+msgstr ""
+
+#: src/Plugin.php:169
+msgid "Separate tags with commas"
+msgstr ""
+
+#: src/Plugin.php:170
+msgid "Add or remove tags"
+msgstr ""
+
+#: src/Plugin.php:171
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: src/Plugin.php:172
+msgid "Track Tags"
+msgstr ""
+
+#: src/Plugin.php:177
+msgid "Music Track Tags"
+msgstr ""
+
+#: src/Plugin.php:200
+msgid "Music Player and Radio, Audio Player, and Podcast Player"
+msgstr ""
+
+#: src/Plugin.php:201
+msgid "Music Player + Radio"
+msgstr ""
+
+#: src/Plugin.php:208 src/Plugin.php:209
+msgid "Documentation"
+msgstr ""
+
+#: src/Plugin.php:218 src/Plugin.php:219
+msgid "Contact us"
+msgstr ""
+
+#: src/Plugin.php:228 src/Plugin.php:229
+msgid "Go Pro"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:14 src/MetaBox/ApfeTrackMetaBox.php:106
+msgid "Artist"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:15
+msgid "Audio File"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:16
+msgid "Duration (ms)"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:17
+msgid "Priority Score"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:18 src/MetaBox/ApfeTrackMetaBox.php:109
+msgid "Status"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:25
+msgid "Track Details"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:41
+msgid "Audio File:"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:44
+msgid "Upload"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:47
+msgid "Artist:"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:52
+msgid "Duration (ms):"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:58
+msgid "Priority Score:"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:64
+msgid "Status:"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:69 src/Widget/Elementor/ApfeWidget.php:98
+msgid "Waiting"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:70 src/Widget/Elementor/ApfeWidget.php:99
+#: src/Widget/Elementor/ApfeWidget.php:731
+#: src/Widget/Elementor/ApfeWidget.php:824
+msgid "Playlist"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:107
+msgid "Title"
+msgstr ""
+
+#: src/MetaBox/ApfeTrackMetaBox.php:108
+msgid "Priority"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:28
+msgid "Audio Player"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:46
+msgid "Content"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:61
+msgid "Leave empty to load automatically based on filters below."
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:70
+msgid "Filter by Categories"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:82
+msgid "Filter by Tags"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:93
+msgid "Filter by Status"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:97
+msgid "All"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:107
+msgid "Number of Tracks"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:117
+msgid "Order by"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:121
+msgid "Default (menu_order/ID)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:122
+msgid "Priority (meta)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:129
+msgid "Order"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:133
+msgid "Ascending"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:134
+msgid "Descending"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:144
+msgid "Layout"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:151
+msgid "Direction (with Sidebar, Topbar, etc.)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:155
+msgid "Row"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:156
+msgid "Row Reverse"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:157
+msgid "Column"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:158
+msgid "Column Reverse"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:166
+msgid "Container Max Height"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:187
+msgid "Container Min Height"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:208
+msgid "Sidebar/Topbar Min Height"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:229
+msgid "Sidebar/Topbar Max Height"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:250
+msgid "Playlist Max Height"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:271
+msgid "Sidebar/Topbar Space Share"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:283
+msgid "Main (Playlist + Player) Space Share"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:295
+msgid "Stick to Bottom"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:297
+#: src/Widget/Elementor/ApfeWidget.php:354
+#: src/Widget/Elementor/ApfeWidget.php:365
+#: src/Widget/Elementor/ApfeWidget.php:380
+#: src/Widget/Elementor/ApfeWidget.php:394
+#: src/Widget/Elementor/ApfeWidget.php:455
+#: src/Widget/Elementor/ApfeWidget.php:468
+#: src/Widget/Elementor/ApfeWidget.php:479
+#: src/Widget/Elementor/ApfeWidget.php:491
+#: src/Widget/Elementor/ApfeWidget.php:519
+#: src/Widget/Elementor/ApfeWidget.php:530
+#: src/Widget/Elementor/ApfeWidget.php:544
+#: src/Widget/Elementor/ApfeWidget.php:559
+#: src/Widget/Elementor/ApfeWidget.php:572
+#: src/Widget/Elementor/ApfeWidget.php:599
+#: src/Widget/Elementor/ApfeWidget.php:625
+#: src/Widget/Elementor/ApfeWidget.php:649
+#: src/Widget/Elementor/ApfeWidget.php:660
+#: src/Widget/Elementor/ApfeWidget.php:672
+#: src/Widget/Elementor/ApfeWidget.php:686
+#: src/Widget/Elementor/ApfeWidget.php:700
+#: src/Widget/Elementor/ApfeWidget.php:741
+#: src/Widget/Elementor/ApfeWidget.php:752
+#: src/Widget/Elementor/ApfeWidget.php:764
+#: src/Widget/Elementor/ApfeWidget.php:776
+#: src/Widget/Elementor/ApfeWidget.php:790
+#: src/Widget/Elementor/ApfeWidget.php:2165
+#: src/Widget/Elementor/ApfeWidget.php:2438
+#: src/Widget/Elementor/ApfeWidget.php:2715
+#: src/Widget/Elementor/ApfeWidget.php:3055
+#: src/Widget/Elementor/ApfeWidget.php:3394
+#: src/Widget/Elementor/ApfeWidget.php:3742
+#: src/Widget/Elementor/ApfeWidget.php:4196
+msgid "Yes"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:298
+#: src/Widget/Elementor/ApfeWidget.php:355
+#: src/Widget/Elementor/ApfeWidget.php:366
+#: src/Widget/Elementor/ApfeWidget.php:381
+#: src/Widget/Elementor/ApfeWidget.php:395
+#: src/Widget/Elementor/ApfeWidget.php:456
+#: src/Widget/Elementor/ApfeWidget.php:467
+#: src/Widget/Elementor/ApfeWidget.php:478
+#: src/Widget/Elementor/ApfeWidget.php:490
+#: src/Widget/Elementor/ApfeWidget.php:518
+#: src/Widget/Elementor/ApfeWidget.php:529
+#: src/Widget/Elementor/ApfeWidget.php:543
+#: src/Widget/Elementor/ApfeWidget.php:558
+#: src/Widget/Elementor/ApfeWidget.php:571
+#: src/Widget/Elementor/ApfeWidget.php:598
+#: src/Widget/Elementor/ApfeWidget.php:626
+#: src/Widget/Elementor/ApfeWidget.php:650
+#: src/Widget/Elementor/ApfeWidget.php:661
+#: src/Widget/Elementor/ApfeWidget.php:673
+#: src/Widget/Elementor/ApfeWidget.php:687
+#: src/Widget/Elementor/ApfeWidget.php:701
+#: src/Widget/Elementor/ApfeWidget.php:742
+#: src/Widget/Elementor/ApfeWidget.php:753
+#: src/Widget/Elementor/ApfeWidget.php:765
+#: src/Widget/Elementor/ApfeWidget.php:777
+#: src/Widget/Elementor/ApfeWidget.php:791
+#: src/Widget/Elementor/ApfeWidget.php:2166
+#: src/Widget/Elementor/ApfeWidget.php:2439
+#: src/Widget/Elementor/ApfeWidget.php:2716
+#: src/Widget/Elementor/ApfeWidget.php:3056
+#: src/Widget/Elementor/ApfeWidget.php:3395
+#: src/Widget/Elementor/ApfeWidget.php:3743
+#: src/Widget/Elementor/ApfeWidget.php:4197
+msgid "No"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:307
+msgid "Sticky Player Width"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:336
+msgid "Options"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:344
+msgid "Player"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:352
+msgid "Disallow user playlist control"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:363
+msgid "Add shuffle button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:378
+msgid "Add loop button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:392
+msgid "Always start with the first track (turn off for radio)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:403
+msgid "Starting Point of Playback"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:413
+msgid "Reference Time Zone"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:428
+msgid "Date/Time at Playback Start"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:439
+msgid "Start Time Offset (seconds)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:453
+msgid "Show duration time"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:465
+msgid "Show playing section"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:476
+msgid "Show playing section on mobile"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:488
+msgid "Show playing section thumbnail"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:503
+msgid "Playing Section Header Text"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:506
+msgid "Enter your text (or leave empty)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:516
+msgid "Show time slider"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:527
+msgid "Time Slider at the Top"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:541
+msgid "Show next and prev"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:556
+msgid "Show volume control"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:569
+msgid "Symmetric Controllers"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:596
+msgid "Centered Controllers"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:623
+msgid "Full Height"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:639
+#: src/Widget/Elementor/ApfeWidget.php:1611
+msgid "Sidebar (or Topbar)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:647
+msgid "Show"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:658
+msgid "Hide on mobile"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:670
+msgid "Show track image in the sidebar/topbar"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:684
+msgid "Show track post content in sidebar/topbar"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:698
+msgid "Show custom content in sidebar/topbar"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:714
+msgid "HTML Content"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:739
+msgid "Show playlist"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:750
+msgid "Show track cover thumbnail"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:762
+msgid "Show artist name"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:774
+msgid "Show track cover image under playlist"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:788
+msgid "Show a custom image under playlist"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:804
+msgid "Image"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:831
+#: src/Widget/Elementor/ApfeWidget.php:839
+msgid "Main Background Color"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:848
+msgid "Playlist Background Image"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:859
+msgid "Background Position"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:863
+msgid "Left Top"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:864
+msgid "Left Center"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:865
+msgid "Left Bottom"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:866
+msgid "Center Top"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:867
+msgid "Center Center"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:868
+msgid "Center Bottom"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:869
+msgid "Right Top"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:870
+msgid "Right Center"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:871
+msgid "Right Bottom"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:885
+msgid "Background Size"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:889
+msgid "Auto"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:890
+#: src/Widget/Elementor/ApfeWidget.php:1684
+#: src/Widget/Elementor/ApfeWidget.php:2053
+msgid "Cover"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:891
+#: src/Widget/Elementor/ApfeWidget.php:1685
+#: src/Widget/Elementor/ApfeWidget.php:2054
+msgid "Contain"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:905
+#: src/Widget/Elementor/ApfeWidget.php:1127
+#: src/Widget/Elementor/ApfeWidget.php:1338
+#: src/Widget/Elementor/ApfeWidget.php:1547
+#: src/Widget/Elementor/ApfeWidget.php:1729
+#: src/Widget/Elementor/ApfeWidget.php:2089
+msgid "Opacity"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:923
+msgid "Playlist Padding"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:939
+msgid "Playlist Item"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:950
+msgid "Min Height"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:974
+#: src/Widget/Elementor/ApfeWidget.php:2215
+#: src/Widget/Elementor/ApfeWidget.php:2488
+#: src/Widget/Elementor/ApfeWidget.php:2770
+#: src/Widget/Elementor/ApfeWidget.php:3110
+#: src/Widget/Elementor/ApfeWidget.php:3466
+#: src/Widget/Elementor/ApfeWidget.php:3794
+#: src/Widget/Elementor/ApfeWidget.php:4251
+msgid "Normal"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:984
+#: src/Widget/Elementor/ApfeWidget.php:1198
+#: src/Widget/Elementor/ApfeWidget.php:1408
+#: src/Widget/Elementor/ApfeWidget.php:1768
+msgid "Text Color"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:998
+#: src/Widget/Elementor/ApfeWidget.php:1210
+#: src/Widget/Elementor/ApfeWidget.php:1420
+#: src/Widget/Elementor/ApfeWidget.php:1622
+msgid "Background Color"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1020
+#: src/Widget/Elementor/ApfeWidget.php:1116
+#: src/Widget/Elementor/ApfeWidget.php:1231
+#: src/Widget/Elementor/ApfeWidget.php:1327
+#: src/Widget/Elementor/ApfeWidget.php:1440
+#: src/Widget/Elementor/ApfeWidget.php:1536
+#: src/Widget/Elementor/ApfeWidget.php:1791
+#: src/Widget/Elementor/ApfeWidget.php:2295
+#: src/Widget/Elementor/ApfeWidget.php:2389
+#: src/Widget/Elementor/ApfeWidget.php:2568
+#: src/Widget/Elementor/ApfeWidget.php:2662
+#: src/Widget/Elementor/ApfeWidget.php:2865
+#: src/Widget/Elementor/ApfeWidget.php:2988
+#: src/Widget/Elementor/ApfeWidget.php:3205
+#: src/Widget/Elementor/ApfeWidget.php:3327
+#: src/Widget/Elementor/ApfeWidget.php:3558
+#: src/Widget/Elementor/ApfeWidget.php:3680
+#: src/Widget/Elementor/ApfeWidget.php:3886
+#: src/Widget/Elementor/ApfeWidget.php:4008
+#: src/Widget/Elementor/ApfeWidget.php:4130
+#: src/Widget/Elementor/ApfeWidget.php:4346
+#: src/Widget/Elementor/ApfeWidget.php:4468
+#: src/Widget/Elementor/ApfeWidget.php:4590
+msgid "Margin"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1032
+#: src/Widget/Elementor/ApfeWidget.php:1105
+#: src/Widget/Elementor/ApfeWidget.php:1243
+#: src/Widget/Elementor/ApfeWidget.php:1316
+#: src/Widget/Elementor/ApfeWidget.php:1452
+#: src/Widget/Elementor/ApfeWidget.php:1525
+#: src/Widget/Elementor/ApfeWidget.php:1803
+#: src/Widget/Elementor/ApfeWidget.php:1851
+#: src/Widget/Elementor/ApfeWidget.php:2284
+#: src/Widget/Elementor/ApfeWidget.php:2381
+#: src/Widget/Elementor/ApfeWidget.php:2557
+#: src/Widget/Elementor/ApfeWidget.php:2654
+#: src/Widget/Elementor/ApfeWidget.php:2854
+#: src/Widget/Elementor/ApfeWidget.php:2977
+#: src/Widget/Elementor/ApfeWidget.php:3194
+#: src/Widget/Elementor/ApfeWidget.php:3316
+#: src/Widget/Elementor/ApfeWidget.php:3547
+#: src/Widget/Elementor/ApfeWidget.php:3669
+#: src/Widget/Elementor/ApfeWidget.php:3875
+#: src/Widget/Elementor/ApfeWidget.php:3997
+#: src/Widget/Elementor/ApfeWidget.php:4119
+#: src/Widget/Elementor/ApfeWidget.php:4335
+#: src/Widget/Elementor/ApfeWidget.php:4457
+#: src/Widget/Elementor/ApfeWidget.php:4579
+msgid "Padding"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1045
+#: src/Widget/Elementor/ApfeWidget.php:1256
+#: src/Widget/Elementor/ApfeWidget.php:1465
+msgid "Thumbnail"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1057
+#: src/Widget/Elementor/ApfeWidget.php:1268
+#: src/Widget/Elementor/ApfeWidget.php:1477
+#: src/Widget/Elementor/ApfeWidget.php:1645
+#: src/Widget/Elementor/ApfeWidget.php:2022
+msgid "Width"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1083
+#: src/Widget/Elementor/ApfeWidget.php:1294
+#: src/Widget/Elementor/ApfeWidget.php:1503
+#: src/Widget/Elementor/ApfeWidget.php:1662
+#: src/Widget/Elementor/ApfeWidget.php:2035
+msgid "Height"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1155
+#: src/Widget/Elementor/ApfeWidget.php:1366
+#: src/Widget/Elementor/ApfeWidget.php:1575
+#: src/Widget/Elementor/ApfeWidget.php:1711
+#: src/Widget/Elementor/ApfeWidget.php:1840
+#: src/Widget/Elementor/ApfeWidget.php:1921
+#: src/Widget/Elementor/ApfeWidget.php:1991
+#: src/Widget/Elementor/ApfeWidget.php:2074
+#: src/Widget/Elementor/ApfeWidget.php:2273
+#: src/Widget/Elementor/ApfeWidget.php:2373
+#: src/Widget/Elementor/ApfeWidget.php:2546
+#: src/Widget/Elementor/ApfeWidget.php:2646
+#: src/Widget/Elementor/ApfeWidget.php:2843
+#: src/Widget/Elementor/ApfeWidget.php:2966
+#: src/Widget/Elementor/ApfeWidget.php:3183
+#: src/Widget/Elementor/ApfeWidget.php:3305
+#: src/Widget/Elementor/ApfeWidget.php:3536
+#: src/Widget/Elementor/ApfeWidget.php:3658
+#: src/Widget/Elementor/ApfeWidget.php:3864
+#: src/Widget/Elementor/ApfeWidget.php:3986
+#: src/Widget/Elementor/ApfeWidget.php:4108
+#: src/Widget/Elementor/ApfeWidget.php:4324
+#: src/Widget/Elementor/ApfeWidget.php:4446
+#: src/Widget/Elementor/ApfeWidget.php:4568
+msgid "Border Radius"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1188
+#: src/Widget/Elementor/ApfeWidget.php:2323
+#: src/Widget/Elementor/ApfeWidget.php:2596
+#: src/Widget/Elementor/ApfeWidget.php:2899
+#: src/Widget/Elementor/ApfeWidget.php:3239
+#: src/Widget/Elementor/ApfeWidget.php:3592
+#: src/Widget/Elementor/ApfeWidget.php:3920
+#: src/Widget/Elementor/ApfeWidget.php:4380
+msgid "Hover"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1399
+#: src/Widget/Elementor/ApfeWidget.php:4042
+#: src/Widget/Elementor/ApfeWidget.php:4502
+msgid "Active"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1634
+msgid "Cover Image"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1679
+#: src/Widget/Elementor/ApfeWidget.php:2048
+msgid "Object Fit"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1683
+#: src/Widget/Elementor/ApfeWidget.php:2052
+msgid "Fill"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1686
+#: src/Widget/Elementor/ApfeWidget.php:2055
+msgid "Scale Down"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1687
+#: src/Widget/Elementor/ApfeWidget.php:2056
+msgid "None"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1757
+msgid "Description"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1818
+msgid "Player Section"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1860
+#: src/Widget/Elementor/ApfeWidget.php:2227
+#: src/Widget/Elementor/ApfeWidget.php:2335
+#: src/Widget/Elementor/ApfeWidget.php:2500
+#: src/Widget/Elementor/ApfeWidget.php:2608
+#: src/Widget/Elementor/ApfeWidget.php:2789
+#: src/Widget/Elementor/ApfeWidget.php:2919
+#: src/Widget/Elementor/ApfeWidget.php:3129
+#: src/Widget/Elementor/ApfeWidget.php:3258
+#: src/Widget/Elementor/ApfeWidget.php:3485
+#: src/Widget/Elementor/ApfeWidget.php:3611
+#: src/Widget/Elementor/ApfeWidget.php:3813
+#: src/Widget/Elementor/ApfeWidget.php:3939
+#: src/Widget/Elementor/ApfeWidget.php:4061
+#: src/Widget/Elementor/ApfeWidget.php:4270
+#: src/Widget/Elementor/ApfeWidget.php:4399
+#: src/Widget/Elementor/ApfeWidget.php:4521
+msgid "Color"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1905
+msgid "Player Time Slider"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1929
+msgid "Player Time Slider (loaded)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1944
+msgid "Player Time Slider (current)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1959
+msgid "Player Time Slider (hover)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1974
+msgid "Player Volume Bar"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:1999
+msgid "Player Volume (current)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2014
+msgid "Playing Image"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2111
+msgid "Playing Header"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2128
+msgid "Playing Title"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2148
+msgid "Player Buttons"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2156
+msgid "Play button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2163
+#: src/Widget/Elementor/ApfeWidget.php:2436
+#: src/Widget/Elementor/ApfeWidget.php:2713
+#: src/Widget/Elementor/ApfeWidget.php:3053
+#: src/Widget/Elementor/ApfeWidget.php:3392
+#: src/Widget/Elementor/ApfeWidget.php:3740
+#: src/Widget/Elementor/ApfeWidget.php:4194
+msgid "Use default icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2175
+msgid "Play Icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2190
+#: src/Widget/Elementor/ApfeWidget.php:2463
+#: src/Widget/Elementor/ApfeWidget.php:2744
+#: src/Widget/Elementor/ApfeWidget.php:3084
+#: src/Widget/Elementor/ApfeWidget.php:3439
+#: src/Widget/Elementor/ApfeWidget.php:3768
+#: src/Widget/Elementor/ApfeWidget.php:4225
+msgid "Width (SVG)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2237
+#: src/Widget/Elementor/ApfeWidget.php:2343
+#: src/Widget/Elementor/ApfeWidget.php:2510
+#: src/Widget/Elementor/ApfeWidget.php:2616
+#: src/Widget/Elementor/ApfeWidget.php:2800
+#: src/Widget/Elementor/ApfeWidget.php:2930
+#: src/Widget/Elementor/ApfeWidget.php:3140
+#: src/Widget/Elementor/ApfeWidget.php:3269
+#: src/Widget/Elementor/ApfeWidget.php:3493
+#: src/Widget/Elementor/ApfeWidget.php:3622
+#: src/Widget/Elementor/ApfeWidget.php:3824
+#: src/Widget/Elementor/ApfeWidget.php:3950
+#: src/Widget/Elementor/ApfeWidget.php:4072
+#: src/Widget/Elementor/ApfeWidget.php:4281
+#: src/Widget/Elementor/ApfeWidget.php:4410
+#: src/Widget/Elementor/ApfeWidget.php:4532
+msgid "Font Size"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2307
+#: src/Widget/Elementor/ApfeWidget.php:2398
+#: src/Widget/Elementor/ApfeWidget.php:2580
+#: src/Widget/Elementor/ApfeWidget.php:2671
+#: src/Widget/Elementor/ApfeWidget.php:2877
+#: src/Widget/Elementor/ApfeWidget.php:3000
+#: src/Widget/Elementor/ApfeWidget.php:3217
+#: src/Widget/Elementor/ApfeWidget.php:3339
+#: src/Widget/Elementor/ApfeWidget.php:3570
+#: src/Widget/Elementor/ApfeWidget.php:3692
+#: src/Widget/Elementor/ApfeWidget.php:3898
+#: src/Widget/Elementor/ApfeWidget.php:4020
+#: src/Widget/Elementor/ApfeWidget.php:4142
+#: src/Widget/Elementor/ApfeWidget.php:4358
+#: src/Widget/Elementor/ApfeWidget.php:4480
+#: src/Widget/Elementor/ApfeWidget.php:4603
+msgid "Shadow"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2414
+#: src/Widget/Elementor/ApfeWidget.php:2687
+#: src/Widget/Elementor/ApfeWidget.php:3024
+#: src/Widget/Elementor/ApfeWidget.php:3363
+#: src/Widget/Elementor/ApfeWidget.php:3715
+#: src/Widget/Elementor/ApfeWidget.php:4165
+#: src/Widget/Elementor/ApfeWidget.php:4626
+msgid "Transition (ms)"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2429
+msgid "Pause button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2448
+msgid "Pause Icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2702
+msgid "Prev button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:2728
+msgid "Prev Icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:3042
+msgid "Next Button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:3068
+msgid "Next Icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:3381
+msgid "Volume button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:3407
+msgid "Volume Icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:3423
+msgid "Mute Icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:3729
+msgid "Shuffle button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:3752
+msgid "Shuffle Icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:4183
+msgid "Loop Button"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:4209
+msgid "Loop Icon"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:4907
+msgid "No tracks found. Please add audio tracks"
+msgstr ""
+
+#: src/Widget/Elementor/ApfeWidget.php:4908
+msgid "here"
+msgstr ""
